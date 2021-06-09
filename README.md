@@ -1,3 +1,6 @@
+This repo contains a forked copy of a recent full stack project that I completed with J. Brown, T. Maggio, and R. Geisreiter. My primary role was design and implementation of the back end code (including routes, session management, etc.) as well much of the middleware facilitating the interface with the front end.
+
+
 # Insomnia-Thai
 
 Using this Full Stack application, a user can interact with our Insomnia-Thai restaurant online to:
@@ -7,7 +10,7 @@ Using this Full Stack application, a user can interact with our Insomnia-Thai re
 - `Browse our mouth watering menu`
 - `Create a reservation and see the users reservation history (Only when logged in)`
 - `Create a takeout order and see the users order history (Only when logged in)`
-- `Once the user has created an order or reservation they will receive a confirmation email`
+`
 
 # Table of Contents
 
